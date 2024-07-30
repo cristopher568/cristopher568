@@ -1,16 +1,13 @@
-## Hi there 👋
+## boas vindas ao meu perfil ⚓
 
-<!--
-**cristopher568/cristopher568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e cristopher
 
-Here are some ideas to get you started:
+- Estou estudando na alura
+- Estou me desemvolmendolimguagem JavaScript
+- Utilizo esse espaço para a minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### voçe pode entrar en conta comigo 🍀
+
+  cristopher568@hotmail.com
+
+  
